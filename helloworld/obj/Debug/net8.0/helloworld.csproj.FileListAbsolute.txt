@@ -1,0 +1,14 @@
+/home/captain/c#/helloworld/bin/Debug/net8.0/helloworld
+/home/captain/c#/helloworld/bin/Debug/net8.0/helloworld.deps.json
+/home/captain/c#/helloworld/bin/Debug/net8.0/helloworld.runtimeconfig.json
+/home/captain/c#/helloworld/bin/Debug/net8.0/helloworld.dll
+/home/captain/c#/helloworld/bin/Debug/net8.0/helloworld.pdb
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfoInputs.cache
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.AssemblyInfo.cs
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.csproj.CoreCompileInputs.cache
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.dll
+/home/captain/c#/helloworld/obj/Debug/net8.0/refint/helloworld.dll
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.pdb
+/home/captain/c#/helloworld/obj/Debug/net8.0/helloworld.genruntimeconfig.cache
+/home/captain/c#/helloworld/obj/Debug/net8.0/ref/helloworld.dll
